@@ -1,4 +1,12 @@
-# Offset Helper
+# Token Blender for steward tokens and NCT
+
+@EthicHub](https://t.me/ethichub) is one of the very first refi and even defi protocols, helping smallholder farmers in developing economies since 2018 (coffee producers in 6 countries of latin america for now).
+We started as a lending/collateral project but in order to reach them in a sustainable way we have to develop a more holistic approach so we are also helping them sell their crops and now we are working on a solution for carbon credits for them.
+The problem is that it's almost impossible to measure the carbon as the value of these carbon is much smaller than the measurement cost.
+As an alternative we are blending toucan already certified and tokenized carbon credits with our farmers steward tokens to produce a premium carbon token. Whatever premium we get in the selling process is additional income for our farmers.
+We think we are going to use celo social connect or account abstraction, polygon id, ethereum attestation service, and maybe other tools.
+
+# Offset Helper for toucan NCT
 
 This contract has the purpose to simplify the carbon offsetting process.
 
